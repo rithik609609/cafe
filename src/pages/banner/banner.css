@@ -1,0 +1,25 @@
+.banner{
+    background-image: url("../../asset/images/banner.png");
+    background-repeat: no-repeat;
+    height: 12rem;
+    background-size: cover;
+     border-radius: 10px;
+     
+}
+
+.main_banner_div{
+    padding: 5px;
+    height: 12rem;
+    border-radius: 10px;
+    background-color: #f1f1f1;
+    position: relative;
+ 
+}
+.banner span{
+    color: white;
+    font-size: 20px;
+    font-weight:500;
+    position: absolute;
+    bottom: 10%;
+    left: 2%; 
+}
