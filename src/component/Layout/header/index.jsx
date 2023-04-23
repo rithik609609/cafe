@@ -8,7 +8,7 @@ const[pathname,setPathName]=useState("/")
 
 useEffect(()=>{
   setPathName(window.location.pathname)
-  },[window.location.pathname])
+  },[])
 
   return (
     <div className='header_main_div'>
