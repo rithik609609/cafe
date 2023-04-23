@@ -10,7 +10,7 @@ const Food = () => {
     },[])
   return (
     <>
-    {JsonData.menu.map((res)=><Div><HorizontalCard name={res.name} type={res.type} price={res.price} img={res.image_url} key={res.id} id={res.id} count={cartData[res.id]||0}/></Div>)}
+    {JsonData.menu.map((res)=><Div key={res.id}><HorizontalCard name={res.name} type={res.type} price={res.price} img={res.image_url} id={res.id} count={cartData[res.id]||0}/></Div>)}
     </>
   )
 }

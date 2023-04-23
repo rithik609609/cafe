@@ -6,15 +6,18 @@ import { Provider } from 'react-redux';
 import reportWebVitals from './reportWebVitals';
 import { BrowserRouter } from 'react-router-dom';
 import store from './redux/store';
+import { Suspense } from 'react';
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
   <React.StrictMode>
+    <Suspense fallback={"Loading"}>
     <Provider store={store}>
     <BrowserRouter>
     <App />
     </BrowserRouter>
     </Provider>
+    </Suspense>
   </React.StrictMode>
 );
 

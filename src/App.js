@@ -1,10 +1,10 @@
 import { Route, Routes } from 'react-router-dom';
 import './App.css';
 import Home from './component/Layout/home';
-import PlaceOrder from './pages/placeorder';
-import Special from './pages/special';
-import Food from './pages/food';
-
+import React from 'react';
+const  PlaceOrder=React.lazy(()=>import("./pages/placeorder"))
+const Special =React.lazy(()=>import( './pages/special'));
+const Food =React.lazy(()=>import( './pages/food'));
 
 function App() {
 
