@@ -6,7 +6,7 @@ const Card = ({name,price,type,img,id,count}) => {
     <>
     <div className='food_card'>
    {/* <div className='card_image' style={{backgroundImage:"url(https://images.pexels.com/photos/1099680/pexels-photo-1099680.jpeg)"}}>  */}
-   <img alt={name} src={img} width={"100%"} height={"74%"}  className='card_image' />
+   <img alt={name} src={img} width={"100%"} height={"70%"}  className='card_image' />
    
    {/* </div> */}
     <div className='food_name_div'>
