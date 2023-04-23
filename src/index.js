@@ -11,7 +11,7 @@ import { Suspense } from 'react';
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
   <React.StrictMode>
-    <Suspense fallback={"Loading"}>
+    <Suspense fallback={<div style={{textAlign:'center'}}>Loading</div>}>
     <Provider store={store}>
     <BrowserRouter>
     <App />
