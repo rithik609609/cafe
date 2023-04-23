@@ -1,0 +1,219 @@
+ {"menu":[
+      {
+        "id": 1,
+        "name": "Vegetable Fried Rice",
+        "type": "veg",
+        "price": 550,
+        "image_url": "https://nishkitchen.com/wp-content/uploads/2018/07/Vegetable-Fried-Rice-1B.jpg"
+      },
+      {
+        "id": 2,
+        "name": "Chicken Tikka Masala",
+        "type": "non-veg",
+        "price": 999,
+        "image_url": "https://www.indianhealthyrecipes.com/wp-content/uploads/2022/06/chicken-tikka-masala.jpg"
+      },
+      {
+        "id": 3,
+        "name": "Margherita Pizza",
+        "type": "veg",
+        "price": 799,
+        "image_url": "https://static.toiimg.com/thumb/56868564.cms?imgsize=1948751&width=800&height=800"
+      },
+      {
+        "id": 4,
+        "name": "Beef Burger",
+        "type": "non-veg",
+        "price": 699,
+        "image_url": "https://static.onecms.io/wp-content/uploads/sites/43/2022/09/26/25473-the-perfect-basic-burger-ddmfs-4x3-1350-1.jpg"
+      },
+      {
+        "id": 5,
+        "name": "Paneer Butter Masala",
+        "type": "veg",
+        "price": 899,
+        "image_url": "https://myfoodstory.com/wp-content/uploads/2021/07/restaurant-style-paneer-butter-masala-2-480x270.jpg"
+      },
+      {
+        "id": 6,
+        "name": "Spaghetti Bolognese",
+        "type": "non-veg",
+        "price": 849,
+        "image_url": "https://www.recipetineats.com/wp-content/uploads/2018/07/Spaghetti-Bolognese.jpg"
+      },
+      {
+        "id": 7,
+        "name": "Veggie Burger",
+        "type": "veg",
+        "price": 449,
+        "image_url": "https://www.realsimple.com/thmb/z3cQCYXTyDQS9ddsqqlTVE8fnpc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/real-simple-mushroom-black-bean-burgers-recipe-0c365277d4294e6db2daa3353d6ff605.jpg"
+      },
+      {
+        "id": 8,
+        "name": "Chicken Fried Rice",
+        "type": "non-veg",
+        "price": 649,
+        "image_url": "https://static.toiimg.com/thumb/75581339.cms?imgsize=1753029&width=800&height=800"
+      },
+      {
+        "id": 9,
+        "name": "Fish and Chips",
+        "type": "non-veg",
+        "price": 1299,
+        "image_url": "https://www.thespruceeats.com/thmb/k8Ejnb3LR7yrhwGirJEC2x6r1sg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/best-fish-and-chips-recipe-434856-Hero-5b61b89346e0fb00500f2141.jpg"
+      },
+      {
+        "id": 10,
+        "name": "Veggie Pizza",
+        "type": "veg",
+        "price": 899,
+        "image_url": "https://cdn.loveandlemons.com/wp-content/uploads/2023/02/vegetarian-pizza.jpg"
+      },
+      {
+        "id": 11,
+        "name": "Beef Stroganoff",
+        "type": "non-veg",
+        "price": 1399,
+        "image_url": "https://images-gmi-pmc.edge-generalmills.com/4bfce8c0-ef8a-45f2-b75b-befefcc10df0.jpg"
+      },
+      {
+        "id": 12,
+        "name": "Aloo Gobi",
+        "type": "veg",
+        "price": 649,
+        "image_url": "https://images.immediate.co.uk/production/volatile/sites/30/2020/08/roasted-aloo-gobi-b125826.jpg"
+      },
+      {
+        "id": 13,
+        "name": "Mushroom Risotto",
+        "type": "veg",
+        "price": 749,
+        "image_url": "https://www.allrecipes.com/thmb/Pow6PE9UyushNDB4wutXNnmriX8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/85389-gourmet-mushroom-risotto-86-7a2d218f53e94ccfaecc69b6fd93cab8.jpg"
+      },
+      {
+        "id": 14,
+        
+            "name": "Chicken Biryani",
+            "type": "non-veg",
+            "price": 1199,
+            "image_url": "https://www.licious.in/blog/wp-content/uploads/2020/12/Hyderabadi-chicken-Biryani-750x750.jpg"
+          },
+          {
+            "id": 15,
+            "name": "Fish Curry",
+            "type": "non-veg",
+            "price": 999,
+            "image_url": "https://static.toiimg.com/thumb/58985156.cms?imgsize=319624&width=800&height=800"
+          },
+          {
+            "id": 16,
+            "name": "Mixed Vegetable Curry",
+            "type": "veg",
+            "price": 749,
+            "image_url": "https://static.toiimg.com/thumb/87621413.cms?imgsize=81300&width=800&height=800"
+          },
+          {
+            "id": 17,
+            "name": "Pork Ribs",
+            "type": "non-veg",
+            "price": 1499,
+            "image_url": "https://www.barossafinefoods.com.au/glide-cache/containers/main/2020_bff_porkribs_bbq_website-2.jpg/03d880f2ca84b83fdeb147548e7d9b12.jpg"
+          },
+          {
+            "id": 18,
+            "name": "Cheeseburger",
+            "type": "non-veg",
+            "price": 549,
+            "image_url": "https://www.foodandwine.com/thmb/jldKZBYIoXJWXodRE9ut87K8Mag=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/crispy-comte-cheesburgers-FT-RECIPE0921-6166c6552b7148e8a8561f7765ddf20b.jpg"
+          },
+          {
+            "id": 19,
+            "name": "Egg Fried Rice",
+            "type": "non-veg",
+            "price": 449,
+            "image_url": "https://media.vogue.in/wp-content/uploads/2020/11/Egg-fried-rice.jpg"
+          },
+          {
+            "id": 20,
+            "name": "Veg Manchurian",
+            "type": "veg",
+            "price": 649,
+            "image_url": "https://holycowvegan.net/wp-content/uploads/2020/03/veg-manchurian-6.jpg"
+          },
+          {
+            "id": 21,
+            "name": "Chicken Wings",
+            "type": "non-veg",
+            "price": 799,
+            "image_url": "https://hips.hearstapps.com/hmg-prod/images/classic-buffalo-wings-horizontal-279-1547506155.jpg?crop=1xw:0.84375xh;center,top"
+          },
+          {
+            "id": 22,
+            "name": "Vegetable Soup",
+            "type": "veg",
+            "price": 349,
+            "image_url": "https://thecozyapron.com/wp-content/uploads/2018/07/vegetable-soup_thecozyapron_1.jpg"
+          },
+          {
+            "id": 23,
+            "name": "Tandoori Chicken",
+            "type": "non-veg",
+            "price": 1299,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Tandoori_chicken_laccha_piyaz1_%2836886283595%29.jpg/1200px-Tandoori_chicken_laccha_piyaz1_%2836886283595%29.jpg"
+          },
+          {
+            "id": 24,
+            "name": "Paneer Tikka",
+            "type": "veg",
+            "price": 899,
+            "image_url": "https://www.cookwithkushi.com/wp-content/uploads/2023/02/tandoori_paneer_tikka_restaurant_style.jpg"
+          },
+          {
+            "id": 25,
+            "name": "Mutton Curry",
+            "type": "non-veg",
+            "price": 1399,
+            "image_url": "https://www.thespruceeats.com/thmb/u1QyfXw4Urb2JpHwLIRIDp9TNMc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/goat-mutton-curry-1957594-hero-01-afaf638173cd47d595c7ad99a018cf01.jpg"
+          },
+          {
+            "id": 26,
+            "name": "Chole Bhature",
+            "type": "veg",
+            "price": 499,
+            "image_url": "https://media.vogue.in/wp-content/uploads/2020/08/chole-bhature-recipe.jpg"
+          },
+          {
+            "id": 27,
+            "name": "Butter Chicken",
+            "type": "non-veg",
+            "price": 1199,
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Chicken_makhani.jpg/800px-Chicken_makhani.jpg"
+          },
+      
+  {
+      "id": 28,
+      "name": "Veg Biryani",
+      "type": "veg",
+      "price": 999,
+      "image_url": "https://recipesofhome.com/wp-content/uploads/2020/06/veg-biryani-recipe.jpg"
+    },
+    {
+      "id": 29,
+      "name": "Mushroom Risotto",
+      "type": "veg",
+      "price": 1199,
+      "image_url": "https://www.allrecipes.com/thmb/Pow6PE9UyushNDB4wutXNnmriX8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/85389-gourmet-mushroom-risotto-86-7a2d218f53e94ccfaecc69b6fd93cab8.jpg"
+    },
+    {
+      "id": 30,
+      "name": "Chicken Noodle Soup",
+      "type": "non-veg",
+      "price": 649,
+      "image_url": "https://tastesbetterfromscratch.com/wp-content/uploads/2017/10/Chicken-Noodle-Soup-2-500x375.jpg"
+    }
+  ]
+ }
+
+
+
+ 

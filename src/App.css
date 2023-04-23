@@ -5,6 +5,7 @@
     max-width: 768px;
     margin: 0 auto;
     width: 100%;
+    position: relative;
 }
 
 button{
@@ -14,6 +15,7 @@ button{
   height: 40vmin;
   pointer-events: none;
 }
+
 
 @media (prefers-reduced-motion: no-preference) {
   .App-logo {
