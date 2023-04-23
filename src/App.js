@@ -4,7 +4,7 @@ import Home from './component/Layout/home';
 import PlaceOrder from './pages/placeorder';
 import Special from './pages/special';
 import Food from './pages/food';
-import { useSelector } from 'react-redux';
+
 
 function App() {
 
