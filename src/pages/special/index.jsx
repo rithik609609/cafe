@@ -16,7 +16,7 @@ const Special = () => {
     <>
     <Banner/>
     <Divider name="Today's Special" setRotate={setShow} rotate={show}/>
-   {show&&<div style={{display:"grid", gridTemplateColumns:"1fr 1fr"}}>
+   {show&&<div style={{display:"grid", gridTemplateColumns:"repeat(3, 1fr)", gap: "16px"}}>
    { JsonData.menu.map((res)=>{
            return <Card name={res.name} price={res.price} type={res.type} img={res.image_url} key={res.id} id={res.id} count={cartData[res.id]||0} />
     })
